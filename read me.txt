@@ -1,0 +1,9 @@
+1- authentication and authorization to prevent normal user to deal with admin panel .
+2-crud operations on user table.
+3-crud operations on category table
+4-crud operations on products table
+5-user profile (update and delete account)
+6-show all products on the home page .
+7-show product details and product related according to category.
+8-handeling the pagination
+
